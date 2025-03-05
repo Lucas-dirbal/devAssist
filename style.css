@@ -3,6 +3,7 @@
 }
 body {
     background-color: var(--background-color);
+    color: white;
 }
 header {
     background-color: white;
