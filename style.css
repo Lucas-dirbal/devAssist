@@ -5,8 +5,9 @@ body {
     background-color: var(--background-color);
 }
 header{
-    color: white;
+    color: blue;
     text-align: center;
     height: 50px;
     width: auto;
+    background-color: white;
 }
