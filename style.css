@@ -122,3 +122,7 @@ img.imagem-logo {
   margin-top: 15px;
   text-decoration: none;
 }
+
+.bnt a{
+  text-decoration: none;
+}
