@@ -41,7 +41,7 @@ header h2 {
     color: var(--secondary-color-leter);
     text-align: right;
     font-size: 20px;
-    margin: 10px 50px 0 0;
+    margin: 10px 50px 15px 0;
 }
 
 main {
