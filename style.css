@@ -3,7 +3,6 @@
 }
 body {
     background-color: var(--background-color);
-    color: white;
 }
 header {
     background-color: white;
@@ -18,4 +17,7 @@ header h1{
     font-weight: bold;
     margin: 80px;
     padding: 30px;
+}
+footer{
+    color: white;
 }
