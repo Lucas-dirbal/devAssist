@@ -4,3 +4,9 @@
 body {
     background-color: var(--background-color);
 }
+header{
+    color: white;
+    text-align: center;
+    height: 50px;
+    width: auto;
+}
