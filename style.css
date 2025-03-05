@@ -117,3 +117,7 @@ img.imagem-logo {
   height: 55px;
   width: auto;
 }
+
+.btn-content p {
+  margin-top: 15px;
+}
