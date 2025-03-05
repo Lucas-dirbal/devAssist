@@ -1,6 +1,7 @@
 :root {
     --background-color: #121212;
     --primary-color: #007BFF;
+    --secondary-color-leter: #268fff;
     --secondary-color: #FFFFFF;
     --text-color: #E0E0E0;
     --shadow-color: rgba(0, 0, 0, 0.3);
@@ -34,6 +35,10 @@ header h1 {
     font-weight: bold;
     margin: 0;
     padding: 10px;
+}
+
+header h2 {
+    color: var(--secondary-color-leter)
 }
 
 main {
